@@ -46,6 +46,7 @@
   background: var(--gray-700);
   border-radius: 8px;
   padding: 1rem;
+  margin-left: 1rem;
 }
 
 .commentContent header {
